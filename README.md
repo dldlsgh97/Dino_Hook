@@ -57,26 +57,3 @@
 
 ---
 
-## 📢 프로젝트 진행중 아쉬웠던 점
-
----
-
-- 플레리어 이동
-    - 프로젝트의 특성상 이동할때 키보드를 이용해서 움직이는 것과 다르게 카메라가 바라보는 방향으로 이동해야 하는것이 아쉬웠다. 나중에 CardBoard가 아닌 다른 VR의 이동방법을 찾아 개선하고 싶다.
-- 기획
-    - 게임의 문제들을 조금 더 다양하고 재미있는 문제를 만들고 싶었지만 그러한 문제들을 만들지 못한것이 아쉬웠다.
-    - 문제를 맞출때 단순히 문을 여는것 뿐만아니라 다른 기믹을 추가하지 못한것이 아쉬웠다.
-    - 전체적인 게임의 분량을 늘리지 못한것이 조금 아쉬웠다.
-- 해결하지 못한 버그
-    - 해결하지 못한 버그가 있는것이 아쉬웠다. 조금 더 공부해서 버그의 원인을 찾아 개선하고 싶다.
-
----
-
-## 📁 : 에셋 출처
-
----
-
-- [Classic Interior Door pack 1](https://assetstore.unity.com/packages/3d/props/interior/classic-interior-door-pack-1-118744)
-- [Low Poly Pack- Environment Lite](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-pack-environment-lite-102039)
-
----
