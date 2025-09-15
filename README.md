@@ -94,3 +94,26 @@
 - 카메라를 맵 오브젝트가 있는 곳 외부로 나가지 못하게하는 기능을 추가하지 못한것이 아쉬움
 - 첫 Unity프로젝트라 에셋을 조금더 다양하게 구하지 못한것이 아쉬움
 
+---
+### 에셋 출처
+- Awesome Jungle Pack
+    - https://jesse-m.itch.io/jungle-pack
+- Generic PLATFORMER Pack
+    - https://bakudas.itch.io/generic-platformer-pack
+- Dino Family
+    - https://demching.itch.io/dino-family
+- Flick's Pixels
+    - https://old-flick.itch.io/flicks-pixels
+- Free Pixel Food!
+    - https://henrysoftware.itch.io/pixel-food
+
+
+
+
+
+
+
+
+   
+
+
